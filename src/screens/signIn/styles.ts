@@ -32,6 +32,5 @@ export const styles = StyleSheet.create ({
         marginBottom: 64,
         fontFamily: theme.fonts.title500,
         lineHeight: 25
-    }
-
+    },
 });
